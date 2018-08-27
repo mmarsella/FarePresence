@@ -1,0 +1,29 @@
+.icon{
+  width: 30px;
+  margin: 2px 5px;
+  border-radius: 52px;
+  display: inline-block;
+  position: relative;
+}
+
+.hoverInfo{
+  background-color: #454040;
+  display: inline-flex;
+  position: absolute;
+  color: white;
+  text-align: center;
+  border-radius: 3px;
+  opacity: 0.85;
+  font-size: 13px;
+  padding: 3px 5px 5px 3px;
+}
+
+.accountImg{
+  border-radius: inherit;
+  width: inherit;
+  border-radius: inherit;
+}
+
+.nameInfo{
+  display: inline-flex
+}
